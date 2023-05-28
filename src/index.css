@@ -43,10 +43,10 @@ img {
 
 /* 頁腳 */
 .footer-content {
-  background-color: #171717;
+  background-image: url("public/images/bg.jpg");
   display: flex;
   width: 100%;
-  color: #D0c8be;
+  color: #171717;
   padding-top: 10vh;
 }
 
@@ -65,7 +65,7 @@ img {
   display: flex;
   height: auto;
   text-decoration: none;
-  color: #D0c8be;
+  color: #171717;
 }
 
 .fb:hover,
@@ -90,12 +90,6 @@ img {
 
 .yt {
   margin-top: -10%;
-}
-
-.copyright {
-  display: block;
-  text-align: center;
-  color: #D62721;
 }
 
 @media screen and (max-width: 576px) {

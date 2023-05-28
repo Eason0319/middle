@@ -12,7 +12,7 @@ export default function Footer() {
                     </div>
                     <div className="col-md-4">
                         <h3>營業時間/Open Time</h3>
-                        <h5>週一至週日 12:00-21:00<br/>Mon. - Sunday, 12pm - 9pm</h5>
+                        <h5>週一至週日 12:00-21:00<br />Mon. - Sunday, 12pm - 9pm</h5>
                     </div>
                     <div className="col-md-3 info">
                         <h3>更多資訊</h3>
@@ -26,9 +26,6 @@ export default function Footer() {
                         </a>
                     </div>
                 </div>
-            </div>
-            <div className="copyright">
-                <p>copyright©2023</p>
             </div>
         </div>
     );

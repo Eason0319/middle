@@ -1,4 +1,10 @@
 /*最新消息輪播*/
+.round{
+  background-image: url("public/images/bg2.jpg");
+  margin-top: -80px;
+  margin-bottom: -80px;
+  padding-bottom: 40px;
+}
 .roundtitle,
 .servicetitle {
   margin-top: 10vh;
@@ -6,6 +12,8 @@
 
 .news {
   font-size: xx-large;
+  color: #d9d1c4;
+  margin-top: 10px;
   margin-left: 31vh;
   font-weight: 1000;
 }
@@ -28,12 +36,14 @@
 
 .newsimg h4 {
   font-family: 'Noto Sans TC', sans-serif;
+  color: #d9d1c4;
   font-weight: bold;
   margin-left: 5%;
 }
 
 .newsimg h2 {
   font-family: 'Noto Sans TC', sans-serif;
+  color: #d9d1c4;
   font-weight: bold;
   margin-left: 1.5%;
 }

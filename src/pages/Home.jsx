@@ -7,11 +7,8 @@ function Home() {
     return(
         <div>
             <Header classname="layoutHeader" />
-            <div className="content">
-                <img className="mainimg" src="public/images/main.jpg" alt="main" />
-            </div>
-            <SimpleSlider/>
             <Service/>
+            <SimpleSlider/>
             <Footer/>
         </div>
     );

@@ -8,7 +8,7 @@ export default function Header() {
     return (
         <header className={styles.header}>
             <div className="Logo">
-                <img className={styles.header_logo} src="./images/logo" alt="logo" />
+                <img className={styles.header_logo} src="public/images/logo.jpg" alt="logo" />
             </div>
             <nav class="navbar navbar-expand-lg">
                 <div class={styles.container_fluid}>

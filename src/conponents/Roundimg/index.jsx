@@ -41,7 +41,7 @@ export default class SimpleSlider extends Component {
       ]
     };
     return (
-      <div>
+      <div className={styles.round}>
         <div className={styles.roundtitle}>
           <p className={styles.news}>最新消息</p>
         </div>
